@@ -3,13 +3,13 @@
 
 ---
 <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" width="40"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" width="40"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg" width="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" width="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" width="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/pinia-dark.svg" width="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/tailwindcss-dark.svg" width="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/vitejs-dark.svg" width="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" width="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg" width="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="40"></a>
 
 
