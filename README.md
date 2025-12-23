@@ -8,7 +8,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/vitejs-dark.svg" width="50"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/nextjs-dark.svg" width="50"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg" width="50"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/aws-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons%232/aws-dark.svg" width="50"></a>
 | Frontend      | State Mgmt | Styling      | Tooling        | Testing      |
 | ------------- | ---------- | ------------| -------------- | ----------- |
 | Vue 3         | Pinia      | Tailwind CSS | Vite           | Vitest      |
