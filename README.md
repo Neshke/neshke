@@ -16,9 +16,7 @@
 
 ## 🌐 XE.com Experience
 
-**Role:** Frontend Engineer
-
-- Led the migration of XE.com’s main web platform from Vue 2/Vuex to Vue 3/Pinia and JavaScript to TypeScript
+- Contributed to the migration of XE.com’s main web platform from Vue 2/Vuex to Vue 3/Pinia and JavaScript to TypeScript
 - Architected and implemented new features for international money transfer, currency conversion, and user onboarding
 - Built reusable UI components and design systems for high-traffic fintech applications
 - Collaborated with backend, QA, and product teams to deliver secure, scalable solutions
@@ -53,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializin
 
 ## 🏆 Highlights
 
-- **Led major migrations** from Vue 2/Vuex to Vue 3/Pinia and JavaScript to TypeScript
+- **Contributed to major migrations** from Vue 2/Vuex to Vue 3/Pinia and JavaScript to TypeScript
 - **Built and maintained** mission-critical fintech applications used by millions
 - **Open Source:** Contributor to Vue.js ecosystem and related tools
 - **Patent Holder:** Invented a micro-cloud data storage system using Raspberry Pi clusters
