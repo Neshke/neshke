@@ -1,4 +1,7 @@
-# 🛠️ Tech Stack
+
+# 👋 Hi, I'm Aleksa Nesic (Neshke)
+
+---
 
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vuejs-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
@@ -9,17 +12,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/nextjs-dark.svg" width="50"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons%232/aws-dark.svg" width="50"></a>
-| Frontend      | State Mgmt | Styling      | Tooling        | Testing      |
-| ------------- | ---------- | ------------| -------------- | ----------- |
-| Vue 3         | Pinia      | Tailwind CSS | Vite           | Vitest      |
-| TypeScript    |            | PostCSS      | Prettier       | @vue/test-utils |
-| Vue Router    |            | Autoprefixer | Vue DevTools   | jsdom       |
-| @vueuse/core  |            |              |                |             |
-| vue-i18n      |            |              |                |             |
 
----
-
-# 👋 Hi, I'm Aleksa Nesic (Neshke)
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in modern web development, with a focus on building high-performance, scalable applications using the Vue.js ecosystem and TypeScript.
 
