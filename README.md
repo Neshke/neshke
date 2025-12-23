@@ -3,7 +3,7 @@
 
 ---
 
-<a href="#"><img src="https://github.com/get-icon/geticon/blob/master/icons/vue.svg" width="30"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/get-icon/geticon/refs/heads/master/icons/vue.svg" width="30"></a>
 <a href="#"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" width="30"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/typescript.svg" width="30"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/pinia-dark.svg" width="30"></a>
@@ -11,7 +11,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/vitejs-dark.svg" width="30"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/get-icon/geticon/refs/heads/master/icons/nextjs-icon.svg" width="30"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg" width="30"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons%232/aws-dark.svg" width="30"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="30"></a>
 
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in modern web development, with a focus on building high-performance, scalable applications using the Vue.js ecosystem and TypeScript.
