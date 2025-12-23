@@ -1,7 +1,7 @@
-
 # 👋 Hi, I'm Aleksa Nesic (Neshke)
 
 ---
+
 <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" width="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" width="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg" width="40"></a>
@@ -12,6 +12,21 @@
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/vitejs-dark.svg" width="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="40"></a>
 
+
+---
+
+## 🌐 XE.com Experience
+
+**Role:** Frontend Engineer
+
+- Led the migration of XE.com’s main web platform from Vue 2/Vuex to Vue 3/Pinia and JavaScript to TypeScript
+- Architected and implemented new features for international money transfer, currency conversion, and user onboarding
+- Built reusable UI components and design systems for high-traffic fintech applications
+- Collaborated with backend, QA, and product teams to deliver secure, scalable solutions
+- Optimized performance and accessibility for millions of global users
+- Automated CI/CD pipelines and improved code quality with testing and linting tools
+
+---
 
 Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in modern web development, with a focus on building high-performance, scalable applications using the Vue.js ecosystem and TypeScript.
 
@@ -48,12 +63,12 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializin
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [portfolio-web](https://github.com/Neshke/portfolio-web) | 💻 Desktop-inspired portfolio built with Vue 3, TypeScript, and Tailwind CSS | Vue 3, TS, Pinia, Tailwind |
-| [nexton-ecommerce](https://github.com/Neshke/nexton-ecommerce) | 🛒 Full-stack e-commerce platform (frontend) | Vue 3, TS, PHP, MySQL |
-| [mini-health-app](https://gitlab.com/Neshke/mini-health-app) | 📱 Android app for health tracking | Kotlin, Android SDK, Firebase |
-| [tehnokan](https://github.com/Neshke/tehnokan) | 🏢 Corporate website for a marketing company | Vue.js, Tailwind CSS |
+| Project                                                        | Description                                                                  | Tech                          |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------- |
+| [portfolio-web](https://github.com/Neshke/portfolio-web)       | 💻 Desktop-inspired portfolio built with Vue 3, TypeScript, and Tailwind CSS | Vue 3, TS, Pinia, Tailwind    |
+| [nexton-ecommerce](https://github.com/Neshke/nexton-ecommerce) | 🛒 Full-stack e-commerce platform (frontend)                                 | Vue 3, TS, PHP, MySQL         |
+| [mini-health-app](https://gitlab.com/Neshke/mini-health-app)   | 📱 Android app for health tracking                                           | Kotlin, Android SDK, Firebase |
+| [tehnokan](https://github.com/Neshke/tehnokan)                 | 🏢 Corporate website for a marketing company                                 | Vue.js, Tailwind CSS          |
 
 ---
 
