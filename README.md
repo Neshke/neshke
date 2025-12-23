@@ -9,7 +9,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/pinia-dark.svg" width="20"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/tailwindcss-dark.svg" width="20"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/vitejs-dark.svg" width="20"></a>
-<a href="#"><img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs-icon.svg" width="20"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/get-icon/geticon/refs/heads/master/icons/nextjs-icon.svg" width="20"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg" width="20"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons%232/aws-dark.svg" width="20"></a>
 
