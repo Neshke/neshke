@@ -12,7 +12,6 @@
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/vitejs-dark.svg" width="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="40"></a>
 
-
 ---
 
 ## 🌐 XE.com Experience
@@ -66,7 +65,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializin
 | Project                                                        | Description                                                                  | Tech                          |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------- |
 | [portfolio-web](https://github.com/Neshke/portfolio-web)       | 💻 Desktop-inspired portfolio built with Vue 3, TypeScript, and Tailwind CSS | Vue 3, TS, Pinia, Tailwind    |
-| [nexton-ecommerce](https://github.com/Neshke/nexton-ecommerce) | 🛒 Full-stack e-commerce platform (frontend)                                 | Vue 3, TS, PHP, MySQL         |
+| [nexton-ecommerce](https://github.com/Neshke/nexton-ecommerce) | 🛒 Full-stack e-commerce platform                                            | Vue 3, TS, PHP, MySQL         |
 | [mini-health-app](https://gitlab.com/Neshke/mini-health-app)   | 📱 Android app for health tracking                                           | Kotlin, Android SDK, Firebase |
 | [tehnokan](https://github.com/Neshke/tehnokan)                 | 🏢 Corporate website for a marketing company                                 | Vue.js, Tailwind CSS          |
 
@@ -87,21 +86,14 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializin
 
 ---
 
-## 📫 Get in Touch
+## 🎨 Hobbies & Interests
 
-- [LinkedIn](https://www.linkedin.com/in/aleksanesicsd/)
-- [Email](mailto:anesic9@gmail.com)
-- [Portfolio Website](https://github.com/Neshke/portfolio-web)
-
----
-
-## ⚡ Fun Facts
-
-- 🎸 Guitarist for 20+ years
-- 🏆 Hackathon winner & patent holder
-- 🧑‍💻 Loves clean code, dark themes, and sci-fi UI
-
----
+- 🎸 Playing guitar and composing music
+- 🏃‍♂️ Running and hiking in nature
+- 🎮 Gaming (strategy, indie, and retro)
+- 📚 Reading sci-fi and tech books
+- 🧑‍💻 Building side projects and open source tools
+- 🖼️ Digital art and UI design
 
 > “The best code is self-documenting, robust, and a joy to maintain.”
 
