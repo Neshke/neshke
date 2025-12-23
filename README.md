@@ -3,7 +3,7 @@
 
 ---
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vuejs-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/get-icon/geticon/blob/master/icons/vue.svg" width="50"></a>
 <a href="#"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" width="50"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/typescript.svg" width="50"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/pinia-dark.svg" width="50"></a>
