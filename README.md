@@ -1,5 +1,5 @@
 # 🛠️ Tech Stack
-
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/NAME_OF_ICON.svg" width="50"></a>
 | Frontend      | State Mgmt | Styling      | Tooling        | Testing      |
 | ------------- | ---------- | ------------| -------------- | ----------- |
 | Vue 3         | Pinia      | Tailwind CSS | Vite           | Vitest      |
