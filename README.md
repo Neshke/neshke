@@ -1,100 +1,52 @@
-# 👋 Hi, I'm Aleksa Nesic (Neshke)
+# Hey there! ðŸ‘‹ I'm Aleksa NeÅ¡iÄ‡
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksanesicsd)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://aleksanesic.netlify.app)
+[![Email](https://img.shields.io/badge/-anesic9@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anesic9@gmail.com)
 
 ---
 
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VueJS-Dark.svg" width="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NextJS-Dark.svg" width="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/react-dark.svg" width="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" width="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" width="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/pinia-dark.svg" width="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/tailwindcss-dark.svg" width="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/vitejs-dark.svg" width="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width="40"></a>
+Software Engineer specializing in Vue.js and TypeScript. I build clean, scalable web applications with strict typing, solid architecture, and comprehensive testing. Currently working on fintech platforms at **Euronet Worldwide** (XE.com / Ria).
 
 ---
 
-## 🌐 XE.com Experience
+### ðŸ› ï¸ Tech Stack
 
-- Contributed to the migration of XE.com’s main web platform from Vue 2/Vuex to Vue 3/Pinia and JavaScript to TypeScript
-- Architected and implemented new features for international money transfer, currency conversion, and user onboarding
-- Built reusable UI components and design systems for high-traffic fintech applications
-- Collaborated with backend, QA, and product teams to deliver secure, scalable solutions
-- Optimized performance and accessibility for millions of global users
-- Automated CI/CD pipelines and improved code quality with testing and linting tools
-
----
-
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** specializing in modern web development, with a focus on building high-performance, scalable applications using the Vue.js ecosystem and TypeScript.
-
----
-
-## 🖥️ About Me
-
-- 💼 **Current Role:** Software Engineer (Fintech, SaaS, Web Platforms)
-- 🏢 **Industry Experience:** 3+ years building large-scale fintech platforms (e.g., XE.com, Ria Money Transfer)
-- 🛠️ **Tech Stack:** Vue 3, TypeScript, Pinia, Tailwind CSS, Node.js, GitHub Actions, Vitest, Cypress
-- 🌍 **Location:** Serbia, Europe
-- 🗣️ **Languages:** English, Serbian
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![Pinia](https://img.shields.io/badge/-Pinia-FFD859?style=flat&logo=Vue.js&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 What I Do
+### ðŸ”¨ What I'm working on
 
-- **Frontend Architecture:** Designing robust, maintainable, and scalable SPA architectures
-- **UI/UX:** Creating beautiful, accessible, and responsive interfaces with a focus on user experience
-- **Testing:** Implementing comprehensive testing pipelines (unit, integration, E2E)
-- **DevOps:** Automating CI/CD workflows and code quality checks
-- **Mentorship:** Helping teams adopt best practices in Vue, TypeScript, and modern frontend tooling
-
----
-
-## 🏆 Highlights
-
-- **Contributed to major migrations** from Vue 2/Vuex to Vue 3/Pinia and JavaScript to TypeScript
-- **Built and maintained** mission-critical fintech applications used by millions
-- **Open Source:** Contributor to Vue.js ecosystem and related tools
-- **Patent Holder:** Invented a micro-cloud data storage system using Raspberry Pi clusters
+- Vue 2â†’3 / JSâ†’TS migrations on high-traffic fintech platforms
+- Building reusable component libraries & design systems
+- Performance optimization: lazy loading, code splitting, bundle analysis
+- Localization pipelines with vue-i18n + Lokalise
 
 ---
 
-## 📂 Featured Projects
+### ðŸ“‚ Featured Projects
 
-| Project                                                        | Description                                                                  | Tech                          |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------- |
-| [portfolio-web](https://github.com/Neshke/portfolio-web)       | 💻 Desktop-inspired portfolio built with Vue 3, TypeScript, and Tailwind CSS | Vue 3, TS, Pinia, Tailwind    |
-| [nexton-ecommerce](https://github.com/Neshke/nexton-ecommerce) | 🛒 Full-stack e-commerce platform                                            | Vue 3, TS, PHP, MySQL         |
-| [mini-health-app](https://gitlab.com/Neshke/mini-health-app)   | 📱 Android app for health tracking                                           | Kotlin, Android SDK, Firebase |
-| [tehnokan](https://github.com/Neshke/tehnokan)                 | 🏢 Corporate website for a marketing company                                 | Vue.js, Tailwind CSS          |
-
----
-
-## 📈 GitHub Stats
-
-![Neshke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neshke&show_icons=true&theme=tokyonight&hide=prs)
+| Project | Description | Stack |
+|---|---|---|
+| [portfolio-web](https://github.com/Neshke/portfolio-web) | Desktop-inspired portfolio with Windows 11 UI | Vue 3, TS, Tailwind |
+| [nexton-ecommerce](https://github.com/Neshke/nexton-ecommerce) | Full-stack e-commerce platform | Vue 3, PHP, MySQL |
+| [mini-health-app](https://gitlab.com/Neshke/mini-health-app) | Android health tracking app | Kotlin, Firebase |
+| Patent MP-2021/0099 | Micro-cloud storage via Raspberry Pi clusters | Hardware, Linux |
 
 ---
 
-## 🌱 Currently Learning
+### ðŸ“Š Stats
 
-- Nuxt 3 & SSR
-- Advanced TypeScript patterns
-- Cloud-native deployment (Docker, Kubernetes)
-- AI/ML for web applications
-
----
-
-## 🎨 Hobbies & Interests
-
-- 🎸 Playing guitar and composing music
-- 🏃‍♂️ Running and hiking in nature
-- 🎮 Gaming (strategy, indie, and retro)
-- 📚 Reading sci-fi and tech books
-- 🧑‍💻 Building side projects and open source tools
-- 🖼️ Digital art and UI design
-
-> “The best code is self-documenting, robust, and a joy to maintain.”
-
----
-
-_Thanks for visiting my profile!_ 🚀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neshke&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neshke&layout=compact&theme=tokyonight&hide=HTML,Shell,CSS&count_private=true)
