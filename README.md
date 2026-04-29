@@ -1,4 +1,4 @@
-# Hey there! ðŸ‘‹ I'm Aleksa NeÅ¡iÄ‡
+# Hey there! I'm Aleksa Nesic
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksanesicsd)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://aleksanesic.netlify.app)
@@ -6,11 +6,11 @@
 
 ---
 
-Software Engineer specializing in Vue.js and TypeScript. I build clean, scalable web applications with strict typing, solid architecture, and comprehensive testing. Currently working on fintech platforms at **Euronet Worldwide** (XE.com / Ria).
+Software Engineer specializing in Vue.js and TypeScript. I build clean, scalable web applications with strict typing, solid architecture, and comprehensive testing. Currently at **Euronet Worldwide** (XE.com / Ria).
 
 ---
 
-### ðŸ› ï¸ Tech Stack
+### Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
@@ -26,16 +26,16 @@ Software Engineer specializing in Vue.js and TypeScript. I build clean, scalable
 
 ---
 
-### ðŸ”¨ What I'm working on
+### What I'm working on
 
-- Vue 2â†’3 / JSâ†’TS migrations on high-traffic fintech platforms
+- Vue 2 to 3 / JS to TS migrations on high-traffic fintech platforms
 - Building reusable component libraries & design systems
 - Performance optimization: lazy loading, code splitting, bundle analysis
 - Localization pipelines with vue-i18n + Lokalise
 
 ---
 
-### ðŸ“‚ Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -46,7 +46,7 @@ Software Engineer specializing in Vue.js and TypeScript. I build clean, scalable
 
 ---
 
-### ðŸ“Š Stats
+### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neshke&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neshke&layout=compact&theme=tokyonight&hide=HTML,Shell,CSS&count_private=true)
