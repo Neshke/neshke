@@ -35,19 +35,7 @@ Software Engineer specializing in Vue.js and TypeScript. I build clean, scalable
 
 ---
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [portfolio-web](https://github.com/Neshke/portfolio-web) | Desktop-inspired portfolio with Windows 11 UI | Vue 3, TS, Tailwind |
-| [nexton-ecommerce](https://github.com/Neshke/nexton-ecommerce) | Full-stack e-commerce platform | Vue 3, PHP, MySQL |
-| [mini-health-app](https://gitlab.com/Neshke/mini-health-app) | Android health tracking app | Kotlin, Firebase |
-| Patent MP-2021/0099 | Micro-cloud storage via Raspberry Pi clusters | Hardware, Linux |
-
----
-
 ### Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neshke&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neshke&layout=compact&theme=tokyonight&hide=HTML,Shell,CSS&count_private=true)
