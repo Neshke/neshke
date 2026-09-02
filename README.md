@@ -6,8 +6,7 @@
 
 ---
 
-Software Engineer specializing in Vue.js and TypeScript. I build clean, scalable web applications with strict typing, solid architecture, and comprehensive testing. Currently at **Euronet Worldwide** (XE.com / Ria).
-
+Software Engineer specializing in Vue.js and TypeScript. I build clean, scalable web applications with strict typing, solid architecture, and comprehensive testing.
 ---
 
 ### Tech Stack
